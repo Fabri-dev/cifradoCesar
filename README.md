@@ -3,4 +3,4 @@ Para trabajar mi lógica de programación y meterme un poquito en el mundo de la
 
 (El programa esta en ingles)
 
-![image](https://github.com/Fabri-dev/cifradoCesar/assets/72052696/37a67936-1af0-4c7e-ab6f-ecc00e6ce5dd)
+![cifrado-cesar](https://github.com/Fabri-dev/cifradoCesar/assets/72052696/b29c8055-cbc6-453f-9a88-6aab4969a58f)
